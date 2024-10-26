@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../VISIO - Giovanna, Heitor/REFATORADO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../chat_kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../firebase_miguel(1)/codelab-friendlychat-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../firebase_miguel/codelab-friendlychat-android" vcs="Git" />
+  </component>
+</project>
